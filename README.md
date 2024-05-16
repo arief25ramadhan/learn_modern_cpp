@@ -2,7 +2,7 @@
 
 My personal note for the Modern C++ course (2021) fom the University of Bonn youtube channel. Playlist link: https://www.youtube.com/playlist?list=PLgnQpQtFTOGRv7VS6fYerEbT4ckBovKur
 
-| Lecture | Notes |
+| Lectures | Notes |
 | -------- | ------- |
 | Lecture 0: Course Introduction, Organization, Hello World | link |
 | Hands-on Tutorial: Working with Linux | link |
