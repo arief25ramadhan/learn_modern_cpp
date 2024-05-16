@@ -56,13 +56,37 @@ In 1983, the first vestiges of **C++** were created by Bjarne Stroustrup. He mad
 
 ## 5. Examples
 
+- Every C++ code starts with a `main`
+- `main` is a function that returns the error code
+- Error code `0` means `OK`
+- Error code can be any number in `[1, 255]` that means `error`
+
 ```
 #include <iostream>
 
 int main(){
-    // Comment
+    // Comment can be like this for one line
+    /*
+    or like this for
+    multiple line
+    */
+
+    // Print hello world
     std::cout << "Hello World!" << std::endl;
     return 0;
 }
+```
 
+### Include directives
+Include direcitves copies the content of `file` into the current file.
+Two variants:
+- #include `<file>` for system include files
+- #include `"file"` for local include files
+
+```
+#include "some_file.hpp"
+// We can use contents of file "some_file.hpp" now
+int main(){
+    return 0;
+}
 ```
