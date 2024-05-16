@@ -4,4 +4,4 @@ My personal note for the Modern C++ course (2020) fom the University of Bonn you
 
 | Lectures | Notes | Slides |
 | -------- | ------- | ------- |
-| Lecture 0: The Basics | lecture_0_notes | lecture_0_slides | 
+| Lecture 0: The Basics | [lecture_0_notes](notes/lecture_0.md) | [lecture_0_slides](https://www.ipb.uni-bonn.de/html/teaching/modern-cpp/slides/lecture_0.pdf) | 
