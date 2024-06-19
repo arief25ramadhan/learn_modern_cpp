@@ -5,9 +5,6 @@ To watch:
 - [Linux Command Line Pipes and Redirection (youtube.com)](https://www.youtube.com/watch?v=mV_8GbzwZMM)
 - [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
 
-
-
-
 ## 1. Definition
 
 C++ is a compiled language because it uses a compiler to translate the source code into an object code (machine code). Compilers we can use on Linux:
@@ -27,7 +24,7 @@ From stackoverflow 2018 developer survey results:
 
 From **assembly language** that is
 
-<table><thead><tr><th><p><strong>Benefits</strong></p></th><th><p><strong>Drawbacks</strong></p></th></tr><tr><th><ul><li>Unbelievably simple instructions (for the computer)</li></ul></th><th><ul><li>A lost of code to do simple tasks</li></ul></th></tr><tr><th><ul><li>Extremely fast</li></ul></th><th><ul><li>Hard to understand</li></ul></th></tr><tr><th><ul><li>Complete control over your program</li></ul></th><th><ul><li>Extremely unportable</li></ul></th></tr></thead></table>
+<table><thead><tr><th><p><strong>Benefits</strong></p></th><th><p><strong>Drawbacks</strong></p></th></tr><tr><th><ul><li>Unbelievably simple instructions (for the computer)</li></ul></th><th><ul><li>A lot of code to do simple tasks</li></ul></th></tr><tr><th><ul><li>Extremely fast</li></ul></th><th><ul><li>Hard to understand</li></ul></th></tr><tr><th><ul><li>Complete control over your program</li></ul></th><th><ul><li>Extremely unportable</li></ul></th></tr></thead></table>
 
 Problem: Computers only understand assembly language
 
